@@ -35,8 +35,8 @@ The game is about the time when a town was invaded by the forces of evil and it 
 - Designing an interesting story is difficult. So often did I find myself going back to very generic plots instead of something fresh. To combat this, I would try to explore more into different games to see what made them unique and what I could do to implement something new into the game. So the idea of gaining powers came to mind, and then a story of an invasion (while still generic, it was changed to be a newer idea to keep it from being stale), and eventually, Metachrosis.
 
 ## Controls
-Move - WASD
-Jump - Space Bar
-Light Attack - Left Click
-Heavy Attack - Right Click
-Dash - Shift
+- Move - WASD
+- Jump - Space Bar
+- Light Attack - Left Click
+- Heavy Attack - Right Click
+- Dash - Shift
